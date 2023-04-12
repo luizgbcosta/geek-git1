@@ -39,5 +39,7 @@ Descrever como instalar e preparar qualquer pendência de desenvolvimento para q
 ## Meta
 
 Seu nome - [@SeuTwitter](https://www.twitter.com.br) - luizguilhermebcosta@gmail.com
+
 Distribuido sobre a licença. Veja `LICENÇA` para mais informações.
+
 [https://github.com/seuusuario/seuprojeto](https://github.com/seuusuario)
